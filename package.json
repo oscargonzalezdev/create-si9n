@@ -1,0 +1,24 @@
+{
+  "name": "create-si9n",
+  "version": "1.0.0",
+  "description": "Node script to create a new si9n message template",
+  "main": "./index.js",
+  "scripts": {},
+  "author": "Oscar Gonzalez <oscargonzalezdev@gmail.com> (https://oscargonzalez.dev)",
+  "homepage": "https://github.com/oscargonzalezdev/create-si9n",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oscargonzalezdev/create-si9n"
+  },
+  "bin": {
+    "create-si9n": "./index.js"
+  },
+  "license": "ISC",
+  "keywords": [
+    "si9n",
+    "npm",
+    "package",
+    "boilerplate",
+    "template"
+  ]
+}
